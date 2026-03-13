@@ -7,16 +7,16 @@ I am a Bachelor of Computer Science (BCS) graduate passionate about building eff
 **Technical Skills:**<br/>
 
 **Languages:**<br/>
-C, C++, Java, SQL<br/>
+C, C++, C#, Java, SQL,JavaScript<br/>
 
 **Database:**<br/>
-MongoDB<br/>
+MongoDB,MySQL,SQL Server<br/>
 
 **Frameworks:**<br/>
 Spring Boot, .NET<br/>
 
 **Tools & Technologies:**<br/>
-Postman, Node.js, Git, GitHub<br/>
+Postman, Node.js,Visual Studio,Visual Studio Code,Intellij,Git, GitHub<br/>
 
 I am interested in backend development, API development, and learning new technologies that help build modern applications.
 
